@@ -1,0 +1,21 @@
+{
+  "name": "aritgeo",
+  "version": "1.0.0",
+  "description": "A function to type of sequence stored in an array",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Ode Akugbe",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
